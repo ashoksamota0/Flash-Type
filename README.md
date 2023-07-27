@@ -1,1 +1,1 @@
-# Typing-Speed-Checker
+#FlashType
